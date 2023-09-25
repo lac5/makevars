@@ -1,0 +1,13 @@
+{
+  "name": "makevars",
+  "version": "1.0.0",
+  "description": "It's like a makefile for variables",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
